@@ -5,7 +5,7 @@
 # Inspired by ltx0101/SlimBrave (Windows) and adapted natively for macOS.
 #
 # License: GPL-3.0
-# Repository: https://github.com/your-username/SlimBrave-Mac
+# Repository: https://github.com/iamujjwalsinha/SlimBrave-Mac
 #
 
 set -eo pipefail

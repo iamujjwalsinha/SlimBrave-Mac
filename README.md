@@ -15,13 +15,13 @@ Inspired by the original [ltx0101/SlimBrave](https://github.com/ltx0101/SlimBrav
 Open your macOS Terminal and run:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/your-username/SlimBrave-Mac/main/SlimBrave.sh -o /tmp/SlimBrave.sh && sudo bash /tmp/SlimBrave.sh
+curl -fsSL https://raw.githubusercontent.com/iamujjwalsinha/SlimBrave-Mac/main/SlimBrave.sh -o /tmp/SlimBrave.sh && sudo bash /tmp/SlimBrave.sh
 ```
 
 Or clone the repo locally:
 
 ```bash
-git clone https://github.com/your-username/SlimBrave-Mac.git
+git clone https://github.com/iamujjwalsinha/SlimBrave-Mac.git
 cd SlimBrave-Mac
 sudo ./SlimBrave.sh
 ```
